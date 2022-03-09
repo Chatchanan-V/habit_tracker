@@ -1,4 +1,4 @@
-# python-microblog
+# python-habit-tracker
 This repository contains code for simple habit tracker web app using Flask and Python. 
 
 HTML and CSS can be found in the provided folders. The app is hosted on Heroku cloud server 
